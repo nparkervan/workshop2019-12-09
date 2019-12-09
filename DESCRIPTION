@@ -11,3 +11,5 @@ License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/nparkervan/workshop2019-12-09
+BugReports: https://github.com/nparkervan/workshop2019-12-09/issues
