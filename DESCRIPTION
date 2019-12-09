@@ -1,0 +1,13 @@
+Package: workshop2019-12-09
+Title: Learning how to do this
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Parker",
+           family = "VanValkenburgh",
+           role = c("aut", "cre"),
+           email = "first.last@example.com")
+Description: What the package does (one paragraph)
+License: MIT + file LICENSE
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true

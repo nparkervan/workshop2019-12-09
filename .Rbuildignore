@@ -1,0 +1,6 @@
+^myprojname\.Rproj$
+^\.Rproj\.user$
+^workshop2019-12-09\.Rcheck$
+^workshop2019-12-09.*\.tar\.gz$
+^workshop2019-12-09.*\.tgz$
+^LICENSE\.md$
